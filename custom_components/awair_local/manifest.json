@@ -1,0 +1,11 @@
+{
+  "codeowners": ["@paulrosania"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/paulrosania/ha-awair-local",
+  "domain": "awair_local",
+  "iot_class": "local_polling",
+  "name": "Awair Local",
+  "requirements": [],
+  "version": "1.0.0"
+}
